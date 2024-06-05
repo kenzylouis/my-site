@@ -10,7 +10,7 @@ Bash, Python, GoLang (Basic), HTML, CSS, Javascript.
 
 ### Technologies and Tools
 
-??? note "..."
+??? note "Please expand!"
 
     * __`OS`__ : Linux/Unix, Windows.
     * __`Networking`__ : TCP/IP, UDP, SMTP, DNS, ...
