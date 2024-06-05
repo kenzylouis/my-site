@@ -1,6 +1,6 @@
 # my-site
 
-To get started, start a Python virtual environment. You can use one of python's popular tool to manage virtual evnvironent, `pipenv`. [Here](https://pipenv-es.readthedocs.io/es/stable/){:target="_blank"} is the link to the docs.
+To get started, start a Python virtual environment. You can use one of python's popular tool to manage virtual evnvironent, `pipenv`. <a href="https://pipenv-es.readthedocs.io/es/stable/" target="_blank">Here</a> is the link to the docs.
 
 To Install pipenv with pip:
 ```shell
@@ -33,4 +33,4 @@ Finally, run your mkdocs server locally for development:
 mkdocs serve
 ```
 
-Assuming that you already follow the steps to [install mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/) and [create your site](https://squidfunk.github.io/mkdocs-material/creating-your-site/).
+Assuming that you already follow the steps to <a href="https://squidfunk.github.io/mkdocs-material/getting-started/" target="_blank">install mkdocs</a> and <a href="https://squidfunk.github.io/mkdocs-material/creating-your-site/" target="_blank">create your site</a>.
