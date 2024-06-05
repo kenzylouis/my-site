@@ -1,5 +1,7 @@
 # my-site
 
+The home page for my site is [https://kenzylouis.github.io/my-site/](https://kenzylouis.github.io/my-site/).
+
 To get started, start a Python virtual environment. You can use one of python's popular tool to manage virtual evnvironent, `pipenv`. <a href="https://pipenv-es.readthedocs.io/es/stable/" target="_blank">Here</a> is the link to the docs.
 
 To Install pipenv with pip:
